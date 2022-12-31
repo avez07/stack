@@ -1,0 +1,17 @@
+body{
+    padding-top: 50px;
+}
+
+.banner-1{
+    background-image: url("images/hero-bg.jpg");
+    height: 700px;
+    width: 100%;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+span{
+    color: rgb(248, 241, 241);
+    font-size: 25px;
+}
+
