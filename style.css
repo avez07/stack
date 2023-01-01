@@ -34,4 +34,10 @@ body{
     background-color: #404041;
     color: white;
 }
+.f-icons-1{
+display: flex;
+justify-content: space-between;
+width: 100px;
+
+}
 
