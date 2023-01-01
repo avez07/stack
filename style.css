@@ -10,8 +10,28 @@ body{
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
 }
-span{
+#f-icons{
     color: rgb(248, 241, 241);
     font-size: 25px;
+    padding-top: 7px;
+}
+#testimonial{
+    background-image: url("images/testimonial_bg.jpg");
+    width: 100%;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color: white;
+}
+.change{
+    color: blue;
+}
+.list-1 {
+    list-style-type: none;
+    padding:  0;
+}
+#contacts{
+    background-color: #404041;
+    color: white;
 }
 
